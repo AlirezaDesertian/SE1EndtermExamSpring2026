@@ -1,0 +1,6 @@
+file,statements,covered_lines,missing_lines,coverage_percent
+40231035/application/booking_service.py,13,12,1,92
+40231035/tests/test_acceptance_booking.py,24,23,1,96
+40231035/tests/test_unit_booking.py,23,23,0,100
+
+TOTAL,60,58,2,97
